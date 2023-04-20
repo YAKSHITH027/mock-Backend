@@ -1,0 +1,41 @@
+{
+  "product": [
+    {
+      "id": 1,
+      "category": "mens",
+      "fastDelivery": true,
+      "price": 12000,
+      "offerPrice": 10000,
+      "brand": "Lacoste",
+      "title": "Leno-P Slim Fit Wool Crewneck Sweater",
+      "ratings": "4",
+      "totalRatings": "8",
+      "quntity": "23",
+      "image": "https://images.bloomingdalesassets.com/is/image/BLM/products/0/optimized/12418230_fpx.tif?$2014_BROWSE_FASHION$&fmt=webp&op_usm=0.7,1.0,0.5,0&resMode=sharp2&qlt=85,0&wid=372&hei=465"
+    },
+    {
+      "id": 2,
+      "category": "mens",
+      "fastDelivery": true,
+      "price": 15960,
+      "offerPrice": 12400,
+      "brand": "bally",
+      "title": "MJ Logo Sweatshirt",
+      "ratings": "2",
+      "totalRatings": "24",
+      "quntity": "45",
+      "image": "https://images.bloomingdalesassets.com/is/image/BLM/products/5/optimized/12356145_fpx.tif?$2014_BROWSE_FASHION$&fmt=webp&op_usm=0.7,1.0,0.5,0&resMode=sharp2&qlt=85,0&wid=372&hei=465"
+    }
+  ],
+
+  "reviews": [
+    {
+      "id": 1,
+      "giverName": "dfdsf",
+      "giverId": "dfs",
+      "message": "ghfgdg",
+      "ratings": "5",
+      "productId": "sdf"
+    }
+  ]
+}
