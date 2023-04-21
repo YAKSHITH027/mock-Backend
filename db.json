@@ -28,7 +28,64 @@
     }
   ],
 
-  "dogs": [],
+  "dogs": [
+    {
+      "id": 1,
+      "name": "Cherry",
+      "age": 2,
+      "place": "Visakhapatnam",
+      "gender": "Male"
+    },
+    {
+      "id": 2,
+      "name": "stark",
+      "age": 2,
+      "place": "Visakhapatnam",
+      "gender": "Female"
+    },
+    {
+      "id": 3,
+      "name": "korry",
+      "age": 5,
+      "place": "Visakhapatnam",
+      "gender": "Male"
+    },
+    {
+      "id": 4,
+      "name": "marry",
+      "age": 2,
+      "place": "udupi",
+      "gender": "Male"
+    },
+    {
+      "id": 5,
+      "name": "Cherry",
+      "age": 3,
+      "place": "Visakhapatnam",
+      "gender": "Female"
+    },
+    {
+      "id": 6,
+      "name": "borry",
+      "age": 3,
+      "place": "Banglore",
+      "gender": "Female"
+    },
+    {
+      "id": 7,
+      "name": "noory",
+      "age": 3,
+      "place": "Banglore",
+      "gender": "male"
+    },
+    {
+      "id": 8,
+      "name": "qoory",
+      "age": 3,
+      "place": "Banglore",
+      "gender": "Female"
+    }
+  ],
   "users": [],
   "extra": [],
   "third": []
