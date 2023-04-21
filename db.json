@@ -28,14 +28,8 @@
     }
   ],
 
-  "reviews": [
-    {
-      "id": 1,
-      "giverName": "dfdsf",
-      "giverId": "dfs",
-      "message": "ghfgdg",
-      "ratings": "5",
-      "productId": "sdf"
-    }
-  ]
+  "reviews": [],
+  "one": [],
+  "second": [],
+  "third": []
 }
