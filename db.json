@@ -86,7 +86,11 @@
       "gender": "Female"
     }
   ],
-  "users": [],
+  "user": [
+    {
+      "name": "yakshith"
+    }
+  ],
   "wishlisted_cars": [],
   "cars": [
     {
