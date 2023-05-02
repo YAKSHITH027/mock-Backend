@@ -111,13 +111,83 @@
     },
     {
       "id": 3,
-      "gender": "mens",
-
+      "gender": "male",
       "price": 15000,
       "category": "Jeans",
       "ProductName": "Lacoste",
       "desc": "Leno-P Slim Fit Wool Crewneck Sweater",
-
+      "image": "https://images.bloomingdalesassets.com/is/image/BLM/products/0/optimized/12418230_fpx.tif?$2014_BROWSE_FASHION$&fmt=webp&op_usm=0.7,1.0,0.5,0&resMode=sharp2&qlt=85,0&wid=372&hei=465"
+    },
+    {
+      "id": 4,
+      "gender": "male",
+      "price": 15000,
+      "category": "suits",
+      "ProductName": "something",
+      "desc": "Leno-P Slim Fit Wool Crewneck Sweater",
+      "image": "https://images.bloomingdalesassets.com/is/image/BLM/products/0/optimized/12418230_fpx.tif?$2014_BROWSE_FASHION$&fmt=webp&op_usm=0.7,1.0,0.5,0&resMode=sharp2&qlt=85,0&wid=372&hei=465"
+    },
+    {
+      "id": 5,
+      "gender": "male",
+      "price": 15700,
+      "category": "trouser",
+      "ProductName": "Lacoste",
+      "desc": "Leno-P Slim Fit Wool Crewneck Sweater",
+      "image": "https://images.bloomingdalesassets.com/is/image/BLM/products/0/optimized/12418230_fpx.tif?$2014_BROWSE_FASHION$&fmt=webp&op_usm=0.7,1.0,0.5,0&resMode=sharp2&qlt=85,0&wid=372&hei=465"
+    },
+    {
+      "id": 6,
+      "gender": "female",
+      "price": 15800,
+      "category": "Jeans",
+      "ProductName": "Lacoste",
+      "desc": "Leno-P Slim Fit Wool Crewneck Sweater",
+      "image": "https://images.bloomingdalesassets.com/is/image/BLM/products/0/optimized/12418230_fpx.tif?$2014_BROWSE_FASHION$&fmt=webp&op_usm=0.7,1.0,0.5,0&resMode=sharp2&qlt=85,0&wid=372&hei=465"
+    },
+    {
+      "id": 7,
+      "gender": "female",
+      "price": 18090,
+      "category": "kurti",
+      "ProductName": "Lacoste",
+      "desc": "Leno-P Slim Fit Wool Crewneck Sweater",
+      "image": "https://images.bloomingdalesassets.com/is/image/BLM/products/0/optimized/12418230_fpx.tif?$2014_BROWSE_FASHION$&fmt=webp&op_usm=0.7,1.0,0.5,0&resMode=sharp2&qlt=85,0&wid=372&hei=465"
+    },
+    {
+      "id": 8,
+      "gender": "female",
+      "price": 15000,
+      "category": "lahenga",
+      "ProductName": "Lacoste",
+      "desc": "Leno-P Slim Fit Wool Crewneck Sweater",
+      "image": "https://images.bloomingdalesassets.com/is/image/BLM/products/0/optimized/12418230_fpx.tif?$2014_BROWSE_FASHION$&fmt=webp&op_usm=0.7,1.0,0.5,0&resMode=sharp2&qlt=85,0&wid=372&hei=465"
+    },
+    {
+      "id": 9,
+      "gender": "female",
+      "price": 15060,
+      "category": "saree",
+      "ProductName": "Lacoste",
+      "desc": "Leno-P Slim Fit Wool Crewneck Sweater",
+      "image": "https://images.bloomingdalesassets.com/is/image/BLM/products/0/optimized/12418230_fpx.tif?$2014_BROWSE_FASHION$&fmt=webp&op_usm=0.7,1.0,0.5,0&resMode=sharp2&qlt=85,0&wid=372&hei=465"
+    },
+    {
+      "id": 10,
+      "gender": "female",
+      "price": 17000,
+      "category": "jackets",
+      "ProductName": "Lacoste",
+      "desc": "Leno-P Slim Fit Wool Crewneck Sweater",
+      "image": "https://images.bloomingdalesassets.com/is/image/BLM/products/0/optimized/12418230_fpx.tif?$2014_BROWSE_FASHION$&fmt=webp&op_usm=0.7,1.0,0.5,0&resMode=sharp2&qlt=85,0&wid=372&hei=465"
+    },
+    {
+      "id": 11,
+      "gender": "female",
+      "price": 19000,
+      "category": "jackets",
+      "ProductName": "Lacoste",
+      "desc": "Leno-P Slim Fit Wool Crewneck Sweater",
       "image": "https://images.bloomingdalesassets.com/is/image/BLM/products/0/optimized/12418230_fpx.tif?$2014_BROWSE_FASHION$&fmt=webp&op_usm=0.7,1.0,0.5,0&resMode=sharp2&qlt=85,0&wid=372&hei=465"
     }
   ],
