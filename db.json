@@ -113,7 +113,7 @@
       "id": 3,
       "gender": "male",
       "price": 15000,
-      "category": "Jeans",
+      "category": "jeans",
       "ProductName": "Lacoste",
       "desc": "Leno-P Slim Fit Wool Crewneck Sweater",
       "image": "https://images.bloomingdalesassets.com/is/image/BLM/products/0/optimized/12418230_fpx.tif?$2014_BROWSE_FASHION$&fmt=webp&op_usm=0.7,1.0,0.5,0&resMode=sharp2&qlt=85,0&wid=372&hei=465"
@@ -140,7 +140,7 @@
       "id": 6,
       "gender": "female",
       "price": 15800,
-      "category": "Jeans",
+      "category": "jeans",
       "ProductName": "Lacoste",
       "desc": "Leno-P Slim Fit Wool Crewneck Sweater",
       "image": "https://images.bloomingdalesassets.com/is/image/BLM/products/0/optimized/12418230_fpx.tif?$2014_BROWSE_FASHION$&fmt=webp&op_usm=0.7,1.0,0.5,0&resMode=sharp2&qlt=85,0&wid=372&hei=465"
